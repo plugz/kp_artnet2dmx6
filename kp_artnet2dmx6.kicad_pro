@@ -649,7 +649,7 @@
           "group_by": false,
           "label": "farnell link",
           "name": "farnell link",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,

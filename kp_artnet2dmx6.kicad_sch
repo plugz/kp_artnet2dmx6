@@ -20370,7 +20370,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 220.98 278.13 0)
 			(effects
 				(font
@@ -20438,7 +20438,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_1206_3216Metric"
 			(at 144.78 26.162 90)
 			(effects
 				(font
@@ -20533,7 +20533,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_1206_3216Metric"
 			(at 541.02 31.242 90)
 			(effects
 				(font
@@ -21210,7 +21210,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 495.3 36.83 0)
 			(effects
 				(font
@@ -22474,7 +22474,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 180.34 262.89 0)
 			(effects
 				(font
@@ -22703,7 +22703,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 247.65 137.16 0)
 			(effects
 				(font
@@ -23159,7 +23159,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 33.02 140.97 0)
 			(effects
 				(font
@@ -23743,7 +23743,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 217.17 63.5 0)
 			(effects
 				(font
@@ -23840,7 +23840,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical"
 			(at 354.33 144.78 0)
 			(effects
 				(font
@@ -23979,7 +23979,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SamacSys:USBBSRA"
 			(at 39.37 256.54 0)
 			(effects
 				(font
@@ -23998,6 +23998,15 @@
 			)
 		)
 		(property "Description" "USB Type B connector"
+			(at 35.56 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "farnell link" "https://fr.farnell.com/multicomp/usb-b-s-ra/conn-usb-2-0-type-b-90-fem-4-voies/dp/2112373"
 			(at 35.56 255.27 0)
 			(effects
 				(font
@@ -24179,7 +24188,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x06"
+		(property "Value" "BTN"
 			(at 228.6 143.5099 0)
 			(effects
 				(font
@@ -24188,7 +24197,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_IDC:IDC-Header_2x03_P2.54mm_Vertical"
 			(at 226.06 140.97 0)
 			(effects
 				(font
@@ -24267,7 +24276,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 369.57 207.01 0)
 			(effects
 				(font
@@ -24364,7 +24373,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 353.06 63.5 0)
 			(effects
 				(font
@@ -24745,7 +24754,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10u"
 			(at 548.64 107.4038 0)
 			(effects
 				(font
@@ -24754,7 +24763,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 546.1 106.68 0)
 			(effects
 				(font
@@ -24824,7 +24833,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 168.91 269.24 0)
 			(effects
 				(font
@@ -25021,7 +25030,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 369.57 161.29 0)
 			(effects
 				(font
@@ -25410,7 +25419,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 551.18 36.83 0)
 			(effects
 				(font
@@ -25507,7 +25516,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 257.81 269.24 0)
 			(effects
 				(font
@@ -25698,7 +25707,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x06"
+		(property "Value" "BTN"
 			(at 228.6 168.9099 0)
 			(effects
 				(font
@@ -25707,7 +25716,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_IDC:IDC-Header_2x03_P2.54mm_Vertical"
 			(at 226.06 166.37 0)
 			(effects
 				(font
@@ -25789,7 +25798,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 68.58 97.79 0)
 			(effects
 				(font
@@ -26235,7 +26244,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 332.74 96.52 0)
 			(effects
 				(font
@@ -26314,7 +26323,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5e859dd4-dbc7-46a0-9523-abfc656a195c")
-		(property "Reference" "10p"
+		(property "Reference" "C38"
 			(at 222.2563 255.27 90)
 			(effects
 				(font
@@ -26322,7 +26331,7 @@
 				)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "10p"
 			(at 222.2563 257.81 90)
 			(effects
 				(font
@@ -26330,7 +26339,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 222.25 261.62 0)
 			(effects
 				(font
@@ -26366,7 +26375,7 @@
 		(instances
 			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
-					(reference "10p")
+					(reference "C38")
 					(unit 1)
 				)
 			)
@@ -26598,7 +26607,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 530.86 36.83 0)
 			(effects
 				(font
@@ -27248,7 +27257,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_1206_3216Metric"
 			(at 114.3 33.782 90)
 			(effects
 				(font
@@ -27773,7 +27782,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical"
 			(at 354.33 129.54 0)
 			(effects
 				(font
@@ -28066,7 +28075,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x06"
+		(property "Value" "BTN"
 			(at 228.6 194.3099 0)
 			(effects
 				(font
@@ -28075,7 +28084,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_IDC:IDC-Header_2x03_P2.54mm_Vertical"
 			(at 226.06 191.77 0)
 			(effects
 				(font
@@ -28221,7 +28230,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 504.19 36.83 0)
 			(effects
 				(font
@@ -28315,7 +28324,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 59.69 67.31 0)
 			(effects
 				(font
@@ -28543,7 +28552,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 43.18 31.75 0)
 			(effects
 				(font
@@ -28842,7 +28851,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC127P600X175-8N"
+		(property "Footprint" "SamacSys:SOIC127P600X175-8N"
 			(at 262.89 77.47 0)
 			(effects
 				(font
@@ -29130,7 +29139,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 496.57 182.88 0)
 			(effects
 				(font
@@ -29484,7 +29493,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 369.57 146.05 0)
 			(effects
 				(font
@@ -30002,7 +30011,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 561.34 36.83 0)
 			(effects
 				(font
@@ -30520,7 +30529,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 73.66 31.75 0)
 			(effects
 				(font
@@ -31329,7 +31338,7 @@
 				)
 			)
 		)
-		(property "Footprint" "AbraconASDDV"
+		(property "Footprint" "SamacSys:AbraconASDDV"
 			(at 57.15 111.76 0)
 			(effects
 				(font
@@ -31646,7 +31655,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 147.32 279.4 0)
 			(effects
 				(font
@@ -31841,7 +31850,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x06"
+		(property "Value" "BTN"
 			(at 228.6 219.7099 0)
 			(effects
 				(font
@@ -31850,7 +31859,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_IDC:IDC-Header_2x03_P2.54mm_Vertical"
 			(at 226.06 217.17 0)
 			(effects
 				(font
@@ -31997,7 +32006,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_1206_3216Metric"
 			(at 114.3 26.162 90)
 			(effects
 				(font
@@ -32177,7 +32186,7 @@
 				)
 			)
 		)
-		(property "Value" "0.47u"
+		(property "Value" "470n"
 			(at 172.466 279.908 90)
 			(effects
 				(font
@@ -32185,7 +32194,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric"
 			(at 172.72 275.59 0)
 			(effects
 				(font
@@ -32205,6 +32214,15 @@
 		)
 		(property "Description" "Inductor, small symbol"
 			(at 172.72 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "farnell link" "https://fr.farnell.com/pulse-electronics/bdqq00201212r47mpa/inductance-puiss-0-47uh-blind/dp/4468802"
+			(at 172.72 275.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32383,7 +32401,7 @@
 				)
 			)
 		)
-		(property "Footprint" "QFN50P500X500X100-33N-D"
+		(property "Footprint" "SamacSys:QFN50P500X500X100-33N-D"
 			(at 472.44 72.39 0)
 			(effects
 				(font
@@ -33668,7 +33686,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MP2331HGTLP"
+		(property "Footprint" "SamacSys:MP2331HGTLP"
 			(at 207.01 267.97 0)
 			(effects
 				(font
@@ -33903,7 +33921,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 154.94 31.75 0)
 			(effects
 				(font
@@ -33997,7 +34015,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 369.57 130.81 0)
 			(effects
 				(font
@@ -34224,7 +34242,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical"
 			(at 354.33 205.74 0)
 			(effects
 				(font
@@ -34430,7 +34448,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 158.75 269.24 0)
 			(effects
 				(font
@@ -34563,7 +34581,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 369.57 191.77 0)
 			(effects
 				(font
@@ -35352,7 +35370,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 156.21 279.4 0)
 			(effects
 				(font
@@ -35422,7 +35440,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 93.98 31.75 0)
 			(effects
 				(font
@@ -35584,7 +35602,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 53.34 31.75 0)
 			(effects
 				(font
@@ -35679,7 +35697,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT95P285X140-6N"
+		(property "Footprint" "SamacSys:SOT95P285X140-6N"
 			(at 360.68 99.06 0)
 			(effects
 				(font
@@ -36152,7 +36170,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 520.7 36.83 0)
 			(effects
 				(font
@@ -36249,7 +36267,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical"
 			(at 354.33 190.5 0)
 			(effects
 				(font
@@ -36325,7 +36343,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 134.62 31.75 0)
 			(effects
 				(font
@@ -36422,7 +36440,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 501.65 182.88 0)
 			(effects
 				(font
@@ -36584,7 +36602,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 365.76 96.52 0)
 			(effects
 				(font
@@ -36905,7 +36923,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 369.57 176.53 0)
 			(effects
 				(font
@@ -37002,7 +37020,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical"
 			(at 354.33 160.02 0)
 			(effects
 				(font
@@ -37434,7 +37452,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 104.14 31.75 0)
 			(effects
 				(font
@@ -37596,7 +37614,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 124.46 31.75 0)
 			(effects
 				(font
@@ -37693,7 +37711,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 83.82 31.75 0)
 			(effects
 				(font
@@ -38052,7 +38070,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical"
 			(at 354.33 175.26 0)
 			(effects
 				(font
@@ -38585,7 +38603,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 63.5 31.75 0)
 			(effects
 				(font
@@ -39007,7 +39025,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fuse:Fuse_1812_4532Metric"
 			(at 52.07 285.75 0)
 			(effects
 				(font
@@ -39028,6 +39046,15 @@
 		)
 		(property "Description" "Resettable fuse, polymeric positive temperature coefficient, small symbol"
 			(at 46.99 287.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C18198349"
+			(at 46.99 287.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
