@@ -10946,12 +10946,6 @@
 		(uuid "2a6efae7-0455-4818-a069-9785165287fa")
 	)
 	(junction
-		(at 168.91 273.05)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2dfecbed-9594-459f-a405-268df5217ac9")
-	)
-	(junction
 		(at 83.82 27.94)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11090,12 +11084,6 @@
 		(uuid "762da4a7-51e1-4254-8dad-1c843782dec6")
 	)
 	(junction
-		(at 158.75 273.05)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "786ff4c2-b5a5-40dc-b2f8-bf1994925bcc")
-	)
-	(junction
 		(at 487.68 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11210,6 +11198,12 @@
 		(uuid "c06c4078-99c3-4487-acbc-02b6bec5ba2c")
 	)
 	(junction
+		(at 147.32 273.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c2c516d8-7682-4f47-bcb6-17bd6dbaa09d")
+	)
+	(junction
 		(at 269.24 189.23)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11244,6 +11238,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d53364f7-4742-4aae-9e2a-0fd7546f01b2")
+	)
+	(junction
+		(at 163.83 273.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "de598ece-6bfc-48c3-8e82-8d4d734a141c")
 	)
 	(junction
 		(at 43.18 35.56)
@@ -11455,7 +11455,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 273.05) (xy 158.75 273.05)
+			(xy 143.51 273.05) (xy 147.32 273.05)
 		)
 		(stroke
 			(width 0)
@@ -12645,7 +12645,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 265.43) (xy 168.91 266.7)
+			(xy 163.83 265.43) (xy 163.83 266.7)
 		)
 		(stroke
 			(width 0)
@@ -12745,7 +12745,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 265.43) (xy 158.75 266.7)
+			(xy 147.32 265.43) (xy 147.32 266.7)
 		)
 		(stroke
 			(width 0)
@@ -12935,7 +12935,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 271.78) (xy 158.75 273.05)
+			(xy 147.32 271.78) (xy 147.32 273.05)
 		)
 		(stroke
 			(width 0)
@@ -13845,7 +13845,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 271.78) (xy 168.91 273.05)
+			(xy 163.83 271.78) (xy 163.83 273.05)
 		)
 		(stroke
 			(width 0)
@@ -14192,6 +14192,16 @@
 			(type default)
 		)
 		(uuid "88c379f3-0050-409e-9581-e55756fc59a3")
+	)
+	(wire
+		(pts
+			(xy 163.83 273.05) (xy 185.42 273.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "890079ff-5ddd-4a1c-870a-688a38a81a26")
 	)
 	(wire
 		(pts
@@ -14905,16 +14915,6 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 273.05) (xy 168.91 273.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aaa262d4-7522-4807-afd9-275016c5c0f7")
-	)
-	(wire
-		(pts
 			(xy 495.3 33.02) (xy 495.3 34.29)
 		)
 		(stroke
@@ -15112,16 +15112,6 @@
 			(type default)
 		)
 		(uuid "b85c304b-473e-49fa-8421-c67d1f280edd")
-	)
-	(wire
-		(pts
-			(xy 168.91 273.05) (xy 185.42 273.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b89e4b77-541c-4b05-a76b-c91f63d109d2")
 	)
 	(wire
 		(pts
@@ -15702,6 +15692,16 @@
 			(type default)
 		)
 		(uuid "dadfc616-92b6-4ea8-b5d3-6546073aba00")
+	)
+	(wire
+		(pts
+			(xy 147.32 273.05) (xy 163.83 273.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db06386c-4e8f-4c70-976d-11f2ec48d370")
 	)
 	(wire
 		(pts
@@ -20276,7 +20276,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 551.18 175.26 0)
 			(effects
 				(font
@@ -20887,7 +20887,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 453.39 179.07 0)
 			(effects
 				(font
@@ -21113,7 +21113,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 466.09 50.8 0)
 			(effects
 				(font
@@ -21631,7 +21631,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 316.23 254 0)
 			(effects
 				(font
@@ -21959,7 +21959,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 487.68 115.57 0)
 			(effects
 				(font
@@ -22053,7 +22053,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 214.63 278.13 0)
 			(effects
 				(font
@@ -22087,7 +22087,7 @@
 			(uuid "8cf5ac17-ea5f-4009-9dba-5adc716725e9")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "R22")
 					(unit 1)
@@ -22123,7 +22123,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 218.44 248.92 0)
 			(effects
 				(font
@@ -22222,7 +22222,7 @@
 			(uuid "3d5c7955-522f-4e54-8dac-cea1b2e238f1")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "#PWR02")
 					(unit 1)
@@ -22372,7 +22372,7 @@
 			(uuid "93dc0c50-98fc-440f-abcf-4dea6825df86")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "U3")
 					(unit 1)
@@ -22508,7 +22508,7 @@
 			(uuid "e839959a-145a-40d1-bed2-199d65a14772")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "C33")
 					(unit 1)
@@ -22541,7 +22541,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 466.09 55.88 0)
 			(effects
 				(font
@@ -22995,7 +22995,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 247.65 279.4 0)
 			(effects
 				(font
@@ -23062,7 +23062,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 551.18 165.1 0)
 			(effects
 				(font
@@ -23384,7 +23384,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 222.25 270.51 0)
 			(effects
 				(font
@@ -23516,7 +23516,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 477.52 115.57 0)
 			(effects
 				(font
@@ -24031,7 +24031,7 @@
 			(uuid "170803d4-6e2d-4388-8a39-e34c209c168d")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "J13")
 					(unit 1)
@@ -24243,7 +24243,7 @@
 			(uuid "643338ef-bd1a-438d-85a7-6a79662d4df4")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "J3")
 					(unit 1)
@@ -24467,7 +24467,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 463.55 142.24 0)
 			(effects
 				(font
@@ -24661,7 +24661,7 @@
 			(uuid "5604640d-d42c-43d8-a83b-1634bc52ba2e")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "#PWR041")
 					(unit 1)
@@ -24797,7 +24797,7 @@
 			(uuid "8bb1b2c6-fead-43c4-bb35-35258b60d328")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "C14")
 					(unit 1)
@@ -24807,7 +24807,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 168.91 269.24 0)
+		(at 163.83 269.24 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24816,7 +24816,7 @@
 		(fields_autoplaced yes)
 		(uuid "4928d07a-dc53-400b-b913-d3e1555e0125")
 		(property "Reference" "C36"
-			(at 171.45 267.9762 0)
+			(at 166.37 267.9762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24824,8 +24824,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
-			(at 171.45 270.5162 0)
+		(property "Value" "100n,500mA"
+			(at 166.37 270.5162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24834,7 +24834,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 168.91 269.24 0)
+			(at 163.83 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24843,7 +24843,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 168.91 269.24 0)
+			(at 163.83 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24852,7 +24852,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 168.91 269.24 0)
+			(at 163.83 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24942,7 +24942,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 158.75 265.43 180)
+		(at 147.32 265.43 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24950,7 +24950,7 @@
 		(dnp no)
 		(uuid "4a9ba8de-63f1-46ee-96a1-c3f838f3072e")
 		(property "Reference" "#PWR0121"
-			(at 158.75 259.08 0)
+			(at 147.32 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24959,7 +24959,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 158.75 261.366 0)
+			(at 147.32 261.366 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24967,7 +24967,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 158.75 265.43 0)
+			(at 147.32 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24976,7 +24976,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 158.75 265.43 0)
+			(at 147.32 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24985,7 +24985,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 158.75 265.43 0)
+			(at 147.32 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25257,7 +25257,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 321.31 72.39 0)
 			(effects
 				(font
@@ -25446,7 +25446,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" ""
+		(property "JLCPCB Part #" "C5177178"
 			(at 551.18 36.83 0)
 			(effects
 				(font
@@ -25680,7 +25680,7 @@
 			(uuid "6fab59b5-ea42-4a06-9437-76956f94dc95")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "#PWR04")
 					(unit 1)
@@ -26143,7 +26143,7 @@
 			(uuid "4e179b5a-5d88-43e1-8a32-46be9321d4ca")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "D1")
 					(unit 1)
@@ -26831,7 +26831,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 466.09 66.04 0)
 			(effects
 				(font
@@ -26926,7 +26926,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 214.63 270.51 0)
 			(effects
 				(font
@@ -26993,7 +26993,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 189.23 22.86 0)
 			(effects
 				(font
@@ -27130,7 +27130,7 @@
 			(uuid "4b6ccb79-d4a5-43eb-9467-b930788c7701")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "J2")
 					(unit 1)
@@ -27163,7 +27163,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 328.93 72.39 0)
 			(effects
 				(font
@@ -27416,7 +27416,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 269.24 92.71 0)
 			(effects
 				(font
@@ -27575,7 +27575,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 463.55 147.32 0)
 			(effects
 				(font
@@ -27746,7 +27746,7 @@
 			(uuid "4e3158a9-ea83-415d-980d-a1c9dba168a4")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "J1")
 					(unit 1)
@@ -27822,7 +27822,7 @@
 			(uuid "1d21c986-de5a-4434-89ed-d7358f6922b9")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "J7")
 					(unit 1)
@@ -27855,7 +27855,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 466.09 60.96 0)
 			(effects
 				(font
@@ -28048,7 +28048,7 @@
 			(uuid "c9d083a5-c3ff-46c5-81bb-33864f436a76")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "#PWR082")
 					(unit 1)
@@ -28385,7 +28385,7 @@
 			(uuid "e10ab8df-b9fc-4e0e-9ab1-b9a35bff30e2")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "R1")
 					(unit 1)
@@ -28752,7 +28752,7 @@
 			(uuid "e7721c3c-a2cc-49f2-aec5-bb93f80517b5")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "Q1")
 					(unit 1)
@@ -28974,7 +28974,7 @@
 			(uuid "a10ce4f4-b246-42fe-9910-81a065fbf5ea")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "IC2")
 					(unit 1)
@@ -29587,7 +29587,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 438.15 146.05 0)
 			(effects
 				(font
@@ -29910,7 +29910,7 @@
 			(uuid "3474dce0-3808-4682-8049-9a3b4da4d367")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "TP1")
 					(unit 1)
@@ -30235,7 +30235,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 316.23 246.38 0)
 			(effects
 				(font
@@ -30269,7 +30269,7 @@
 			(uuid "8a45213e-76d1-4e8d-af8e-b58da4ecc4ce")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "R29")
 					(unit 1)
@@ -30302,7 +30302,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 236.22 74.93 0)
 			(effects
 				(font
@@ -30438,7 +30438,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 168.91 265.43 180)
+		(at 163.83 265.43 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -30446,7 +30446,7 @@
 		(dnp no)
 		(uuid "a14bdf49-c8ef-4870-94e8-df8bf29bb8c2")
 		(property "Reference" "#PWR0120"
-			(at 168.91 259.08 0)
+			(at 163.83 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30455,7 +30455,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 168.91 261.366 0)
+			(at 163.83 261.366 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30463,7 +30463,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 168.91 265.43 0)
+			(at 163.83 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30472,7 +30472,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 168.91 265.43 0)
+			(at 163.83 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30481,7 +30481,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 168.91 265.43 0)
+			(at 163.83 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30850,7 +30850,7 @@
 			(uuid "1528862f-86e1-4fbd-b078-7bbfbee52097")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "#PWR0112")
 					(unit 1)
@@ -31111,7 +31111,7 @@
 			(uuid "fa1ae0e4-d2b1-4fb9-80eb-44725b9544ae")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "#PWR055")
 					(unit 1)
@@ -31460,7 +31460,7 @@
 			(uuid "da92ca4b-c2ac-4502-8daa-39744ca271a5")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "Y1")
 					(unit 1)
@@ -31558,7 +31558,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 482.6 115.57 0)
 			(effects
 				(font
@@ -31674,6 +31674,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 147.32 279.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C5177178"
 			(at 147.32 279.4 0)
 			(effects
 				(font
@@ -31823,7 +31832,7 @@
 			(uuid "907bd048-850a-4827-8011-53c409553771")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "#PWR05")
 					(unit 1)
@@ -31938,7 +31947,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 316.23 269.24 0)
 			(effects
 				(font
@@ -32067,7 +32076,7 @@
 			(uuid "5f28636e-1ff9-4a44-8ff8-cde4782d07b9")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "FB1")
 					(unit 1)
@@ -32100,7 +32109,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 492.76 115.57 0)
 			(effects
 				(font
@@ -32237,7 +32246,7 @@
 			(uuid "a2b9c509-2501-487a-9ba1-a6566268de52")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "L1")
 					(unit 1)
@@ -32599,7 +32608,7 @@
 			(uuid "89b7a971-c7ff-4366-891b-b63b6d47d08a")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "IC1")
 					(unit 1)
@@ -32827,7 +32836,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 316.23 261.62 0)
 			(effects
 				(font
@@ -32959,7 +32968,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 463.55 137.16 0)
 			(effects
 				(font
@@ -33170,7 +33179,7 @@
 			(uuid "ac83a755-68fa-488d-adf5-d687488927df")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "U2")
 					(unit 1)
@@ -33457,7 +33466,7 @@
 			(uuid "a57ddf07-83e9-426e-b281-ed09659b3ac5")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "J14")
 					(unit 1)
@@ -33820,7 +33829,7 @@
 			(uuid "267f202a-a881-4187-b1ab-bbdb4e998a4c")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "IC4")
 					(unit 1)
@@ -34422,7 +34431,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 158.75 269.24 0)
+		(at 147.32 269.24 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -34431,7 +34440,7 @@
 		(fields_autoplaced yes)
 		(uuid "cde1115c-f545-4f5d-b3f8-f783fef254b5")
 		(property "Reference" "C37"
-			(at 161.29 267.9762 0)
+			(at 149.86 267.9762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34439,8 +34448,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22u"
-			(at 161.29 270.5162 0)
+		(property "Value" "22u,500mA"
+			(at 149.86 270.5162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34449,7 +34458,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
-			(at 158.75 269.24 0)
+			(at 147.32 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34458,7 +34467,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 158.75 269.24 0)
+			(at 147.32 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34467,7 +34476,16 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 158.75 269.24 0)
+			(at 147.32 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C5177178"
+			(at 147.32 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34548,7 +34566,7 @@
 			(uuid "afd45c25-0b87-407a-80d2-4daf1b609401")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "#PWR0104")
 					(unit 1)
@@ -34916,7 +34934,7 @@
 			(uuid "e548ddf2-be42-4b2c-a35b-8a2161d59dcd")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "FB4")
 					(unit 1)
@@ -35045,7 +35063,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "H1")
 					(unit 1)
@@ -35208,7 +35226,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 463.55 152.4 0)
 			(effects
 				(font
@@ -35389,6 +35407,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 156.21 279.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C5177178"
 			(at 156.21 279.4 0)
 			(effects
 				(font
@@ -35805,7 +35832,7 @@
 			(uuid "4e835ce7-45ea-4863-b1f0-3683c329b52c")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "IC3")
 					(unit 1)
@@ -35815,7 +35842,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 156.21 273.05 90)
+		(at 143.51 273.05 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -35824,7 +35851,7 @@
 		(fields_autoplaced yes)
 		(uuid "dc433270-c912-4f74-a235-4c48004c8c47")
 		(property "Reference" "#PWR0118"
-			(at 160.02 273.05 0)
+			(at 147.32 273.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35833,7 +35860,7 @@
 			)
 		)
 		(property "Value" "+5V_IN"
-			(at 152.4 273.0499 90)
+			(at 139.7 273.0499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35842,7 +35869,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 156.21 273.05 0)
+			(at 143.51 273.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35851,7 +35878,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 156.21 273.05 0)
+			(at 143.51 273.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35860,7 +35887,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 156.21 273.05 0)
+			(at 143.51 273.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36197,7 +36224,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" ""
+		(property "JLCPCB Part #" "C5177178"
 			(at 520.7 36.83 0)
 			(effects
 				(font
@@ -36566,7 +36593,7 @@
 			(uuid "36669659-2f11-4e37-af27-96f018cebbe2")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "#PWR03")
 					(unit 1)
@@ -36825,7 +36852,7 @@
 			(uuid "4cd3d787-082e-4266-b4dd-6f1d0d8aefb0")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "SW1")
 					(unit 1)
@@ -36890,7 +36917,7 @@
 			(uuid "869060d4-7fb9-4ddf-ae71-fe839cee504d")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "#PWR01")
 					(unit 1)
@@ -37158,7 +37185,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 549.91 96.52 0)
 			(effects
 				(font
@@ -38567,7 +38594,7 @@
 			(uuid "e1ad22aa-160a-4939-a80b-55695395b99f")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "U1")
 					(unit 1)
@@ -38991,7 +39018,7 @@
 			(uuid "7630517d-3344-4de5-bd10-6d3943dd1f43")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "H4")
 					(unit 1)
@@ -39069,7 +39096,7 @@
 			(uuid "aed501c1-ea20-472c-a7c5-35cc21c01dea")
 		)
 		(instances
-			(project ""
+			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "F1")
 					(unit 1)
