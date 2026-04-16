@@ -11557,7 +11557,7 @@
 	)
 	(wire
 		(pts
-			(xy 307.34 269.24) (xy 313.69 269.24)
+			(xy 307.34 270.51) (xy 313.69 270.51)
 		)
 		(stroke
 			(width 0)
@@ -12114,6 +12114,16 @@
 			(type default)
 		)
 		(uuid "1ed5d303-c52c-41fa-90b0-33d7c897be2f")
+	)
+	(wire
+		(pts
+			(xy 447.04 285.75) (xy 447.04 288.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f7b39c9-415a-4ac8-8237-49258a0b9374")
 	)
 	(wire
 		(pts
@@ -13967,6 +13977,16 @@
 	)
 	(wire
 		(pts
+			(xy 436.88 285.75) (xy 436.88 288.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "74093724-1b23-4631-be85-f5c7686ac7c2")
+	)
+	(wire
+		(pts
 			(xy 347.98 142.24) (xy 349.25 142.24)
 		)
 		(stroke
@@ -14487,7 +14507,7 @@
 	)
 	(wire
 		(pts
-			(xy 307.34 262.89) (xy 307.34 269.24)
+			(xy 307.34 262.89) (xy 307.34 270.51)
 		)
 		(stroke
 			(width 0)
@@ -15787,7 +15807,7 @@
 	)
 	(wire
 		(pts
-			(xy 318.77 269.24) (xy 321.31 269.24)
+			(xy 318.77 270.51) (xy 321.31 270.51)
 		)
 		(stroke
 			(width 0)
@@ -16715,6 +16735,46 @@
 		)
 		(uuid "fff14942-d6c8-4f10-bd0c-cfbd4775380b")
 	)
+	(label "swd_swo"
+		(at 311.15 261.62 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "055ca81a-2a16-4624-8fa1-0941c8b29615")
+	)
+	(label "swd_io"
+		(at 308.61 246.38 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "276dc435-8907-4c79-a1da-bb8268538505")
+	)
+	(label "swd_clk"
+		(at 311.15 254 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5d8d3d19-d6b6-4d43-8fbb-a96dce62e3fa")
+	)
+	(label "swd_nrst"
+		(at 307.34 269.24 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9c2877c3-0f2a-4cd3-b482-302114906ca5")
+	)
 	(global_label "STM_ETH_TXD2"
 		(shape input)
 		(at 168.91 170.18 0)
@@ -17269,7 +17329,7 @@
 	)
 	(global_label "STM_NRST"
 		(shape input)
-		(at 321.31 269.24 0)
+		(at 321.31 270.51 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -17279,7 +17339,7 @@
 		)
 		(uuid "182eb5d3-808d-4ed9-9da2-716247b07159")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 333.6689 269.24 0)
+			(at 333.6689 270.51 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20771,6 +20831,74 @@
 			)
 		)
 	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 447.04 285.75 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "780d0761-1b46-436b-92e5-aafb3c71acd0")
+		(property "Net Class" "power"
+			(at 443.738 279.908 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at -54.61 92.71 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 436.88 285.75 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a6c6be14-40e6-494c-bcd9-16dd20db4688")
+		(property "Net Class" "power"
+			(at 433.578 279.908 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at -64.77 92.71 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
 	(symbol
 		(lib_id "Device:R_Small")
 		(at 551.18 175.26 270)
@@ -20968,6 +21096,83 @@
 			(project "kp_artnet2dmx6"
 				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
 					(reference "C39")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 447.04 288.29 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "067ca822-4c0b-4438-8ff8-d1364c937bfd")
+		(property "Reference" "#PWR04"
+			(at 447.04 284.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 447.294 291.846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 447.04 288.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 447.04 288.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 447.04 288.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "261845da-3270-43bb-8c79-915704c7a375")
+		)
+		(instances
+			(project "kp_artnet2dmx6"
+				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -33367,6 +33572,83 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 436.88 288.29 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "adea4a3c-6ff7-4c81-a5ea-fcdc46e953b5")
+		(property "Reference" "#PWR0110"
+			(at 436.88 294.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 436.88 292.1 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 436.88 288.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 436.88 288.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 436.88 288.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a091712f-1077-48ec-b0fc-2d14631846e4")
+		)
+		(instances
+			(project "kp_artnet2dmx6"
+				(path "/c020d59c-a220-4a4b-a853-32d85708743c"
+					(reference "#PWR0110")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "SamacSys:ASDDV-25.000MHZ-LC-T")
 		(at 22.86 114.3 0)
 		(unit 1)
@@ -34107,7 +34389,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 316.23 269.24 90)
+		(at 316.23 270.51 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -34117,7 +34399,7 @@
 		(dnp no)
 		(uuid "b2e54752-f70a-4fa9-9954-3ad0078f9812")
 		(property "Reference" "R32"
-			(at 315.976 266.7 90)
+			(at 315.976 267.97 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -34127,7 +34409,7 @@
 			)
 		)
 		(property "Value" "22"
-			(at 316.23 271.78 90)
+			(at 316.23 273.05 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -34137,7 +34419,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 316.23 269.24 0)
+			(at 316.23 270.51 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34148,7 +34430,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 316.23 269.24 0)
+			(at 316.23 270.51 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34159,7 +34441,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 316.23 269.24 0)
+			(at 316.23 270.51 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34170,7 +34452,7 @@
 			)
 		)
 		(property "JLCPCB Part #" "C17561"
-			(at 316.23 269.24 90)
+			(at 316.23 270.51 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36178,7 +36460,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SamacSys:MP2331HGTLP"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-583-8"
 			(at 207.01 267.97 0)
 			(hide yes)
 			(show_name no)
