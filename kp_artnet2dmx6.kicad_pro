@@ -62,11 +62,11 @@
       ],
       "drc_exclusions": [
         [
-          "silk_edge_clearance|134000000|110905000|8a7f219f-96bb-4087-88f3-72b6019bc7d9|4e9b05f1-6e67-44b3-aeba-9d3d5b9d528a",
+          "silk_edge_clearance|114750000|127000000|0b715491-e98b-4c26-93de-cc74ef5f80a8|685682ce-7911-4209-8f89-bf71b0dadc0c",
           ""
         ],
         [
-          "silk_edge_clearance|134000000|112205000|8a7f219f-96bb-4087-88f3-72b6019bc7d9|685682ce-7911-4209-8f89-bf71b0dadc0c",
+          "silk_edge_clearance|116050000|127000000|0b715491-e98b-4c26-93de-cc74ef5f80a8|4e9b05f1-6e67-44b3-aeba-9d3d5b9d528a",
           ""
         ],
         [
@@ -83,6 +83,42 @@
         ],
         [
           "silk_edge_clearance|50000000|91250000|21893c8a-d632-419f-9a5e-1a4106e25c39|664b2711-836c-4e57-b11d-77678c8cd0b7",
+          ""
+        ],
+        [
+          "silk_edge_clearance|63710000|23000000|f9d371c2-1a61-4c56-9116-be40e8f89d79|c133da06-7969-455a-bd93-030e6d1e1541",
+          ""
+        ],
+        [
+          "silk_edge_clearance|79210000|23000000|f9d371c2-1a61-4c56-9116-be40e8f89d79|393ab0a1-a9de-4742-b288-2cd0beff71ae",
+          ""
+        ],
+        [
+          "silk_over_copper|104200000|42030000|b07f3a6a-e8b9-4567-88b1-6194730d8688|6fc448a4-48c4-4830-ab87-3eea860c7f91",
+          ""
+        ],
+        [
+          "silk_over_copper|104200000|42030000|d3c02086-21e3-42f4-b158-ad47e53a50b1|6fc448a4-48c4-4830-ab87-3eea860c7f91",
+          ""
+        ],
+        [
+          "silk_over_copper|113500000|33770000|3a126a29-c127-452f-acb4-2d9751420ec3|db518c0b-1978-430f-9099-a27da0c092bf",
+          ""
+        ],
+        [
+          "silk_over_copper|113500000|33770000|956d82c7-a484-4d7b-9df8-e004f62a5ffd|db518c0b-1978-430f-9099-a27da0c092bf",
+          ""
+        ],
+        [
+          "starved_thermal|112231318|27318679|003db288-7e00-48cd-8939-e2cf200952b2|adc0c40f-8051-4b75-ad3b-ee2a89653d4d|In2.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|113000000|29090000|b99db44b-e38e-49dc-987b-f9c7e58ba070|2dc95039-04c7-49fb-8da0-7893eab4f9f2|B.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|115500000|64079999|b99db44b-e38e-49dc-987b-f9c7e58ba070|a04a92e8-a822-4f4f-b04f-72288ba62720|B.Cu",
           ""
         ],
         [
