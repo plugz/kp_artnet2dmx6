@@ -56,35 +56,19 @@
       "diff_pair_dimensions": [],
       "drc_exclusions": [
         [
-          "silk_edge_clearance|151780478|80672147|8dbad9ed-8ea2-4ad8-acea-faa23be61901|1bdb7c84-301a-4fe5-b018-ab3f8e965724",
+          "silk_edge_clearance|162403102|112040000|b4d70aa4-407a-4173-bb89-d2339d108119|14151904-d664-4950-90c2-c019befc427d",
           ""
         ],
         [
-          "silk_edge_clearance|158170000|40140000|8dbad9ed-8ea2-4ad8-acea-faa23be61901|68537a22-e29b-4ab0-b740-e6a0bbda7137",
+          "silk_edge_clearance|169030000|63005813|045232b3-898c-4a8b-9499-907d4f66e07f|0f7c88be-da4e-4b7f-965d-601e13abacc3",
           ""
         ],
         [
-          "silk_edge_clearance|168390417|97282085|8dbad9ed-8ea2-4ad8-acea-faa23be61901|b725380f-6b1f-4957-9b7b-e8a1cd5326b3",
+          "silk_edge_clearance|185510000|122730593|b4d70aa4-407a-4173-bb89-d2339d108119|dfe78a38-07dc-4663-9981-b6d8c0988b66",
           ""
         ],
         [
-          "silk_edge_clearance|180310000|40140000|8dbad9ed-8ea2-4ad8-acea-faa23be61901|dca8fd55-1732-4991-92e0-a6c8fbb72453",
-          ""
-        ],
-        [
-          "silk_edge_clearance|191910001|62220000|8dbad9ed-8ea2-4ad8-acea-faa23be61901|27e31bd3-a9ff-4561-b9c1-ca03476e80d2",
-          ""
-        ],
-        [
-          "silk_edge_clearance|191910001|71340000|8dbad9ed-8ea2-4ad8-acea-faa23be61901|3ea1fc47-4995-43aa-b48a-922e343401b5",
-          ""
-        ],
-        [
-          "silk_edge_clearance|193210001|63530000|8dbad9ed-8ea2-4ad8-acea-faa23be61901|9c14cb61-1df1-44d5-bef0-acd12b4853cc",
-          ""
-        ],
-        [
-          "silk_edge_clearance|201710001|70030000|8dbad9ed-8ea2-4ad8-acea-faa23be61901|53968806-539c-49fd-a439-fe6a00c851e6",
+          "silk_edge_clearance|194570001|62738767|045232b3-898c-4a8b-9499-907d4f66e07f|dca8fd55-1732-4991-92e0-a6c8fbb72453",
           ""
         ]
       ],
@@ -808,7 +792,7 @@
         "uuid": "e335fb01-dbbd-4d9e-bae1-b1fad3534b6d"
       }
     ],
-    "used_designators": "C7-8,#PWR34-38",
+    "used_designators": "#PWR39-42,H1-2",
     "variants": []
   },
   "sheets": [
