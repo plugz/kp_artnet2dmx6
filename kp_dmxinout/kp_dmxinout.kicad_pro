@@ -50,7 +50,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.3
         }
       },
       "diff_pair_dimensions": [],
@@ -69,6 +69,14 @@
         ],
         [
           "silk_edge_clearance|194570001|62738767|045232b3-898c-4a8b-9499-907d4f66e07f|dca8fd55-1732-4991-92e0-a6c8fbb72453",
+          ""
+        ],
+        [
+          "silk_edge_clearance|202859538|95060230|785b5c9f-99ad-4288-b4a2-a7df2c3ca35f|2f0550f2-03ec-4383-a2c4-772a69302929",
+          ""
+        ],
+        [
+          "silk_edge_clearance|202976022|95498011|785b5c9f-99ad-4288-b4a2-a7df2c3ca35f|cb5ab185-626d-4b86-bd53-85a5eb51d83c",
           ""
         ]
       ],
@@ -143,7 +151,7 @@
         "max_error": 0.005,
         "min_clearance": 0.0,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.025,
+        "min_copper_edge_clearance": 0.25,
         "min_groove_width": 0.0,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
@@ -792,7 +800,7 @@
         "uuid": "e335fb01-dbbd-4d9e-bae1-b1fad3534b6d"
       }
     ],
-    "used_designators": "#PWR39-42,H1-2",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
