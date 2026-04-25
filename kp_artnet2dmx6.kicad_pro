@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 2.54
+          "drill": 0.0,
+          "height": 1.15,
+          "width": 0.6
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -61,6 +61,22 @@
         }
       ],
       "drc_exclusions": [
+        [
+          "clearance|73725000|102550001|80af55ab-fc95-46d1-a7e4-3d2231fcd657|23f75f1c-e0bc-4ecd-bda6-31a7f7786e5f",
+          ""
+        ],
+        [
+          "clearance|73725000|98750001|ecb7d93e-bd7f-4b52-86de-cfa1c21959f6|fe971017-56a7-4264-927d-b21d60f86142",
+          ""
+        ],
+        [
+          "clearance|77650000|102675001|09d6f1f5-9d65-45c9-bb13-5aca6b7fa8d5|4f32ba4c-f603-4ea9-a797-3675ed368920",
+          ""
+        ],
+        [
+          "clearance|77775000|98750001|11a6d724-dc05-404b-8701-ab660df6375f|c48d8c92-3ca1-48b3-bb15-deb33bbc686f",
+          ""
+        ],
         [
           "silk_edge_clearance|114750000|127000000|0b715491-e98b-4c26-93de-cc74ef5f80a8|685682ce-7911-4209-8f89-bf71b0dadc0c",
           ""
@@ -957,7 +973,7 @@
         "uuid": "c020d59c-a220-4a4b-a853-32d85708743c"
       }
     ],
-    "used_designators": "#PWR98-99",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [

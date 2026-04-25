@@ -33623,7 +33623,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0805_2012Metric"
+		(property "Footprint" "homemade_footprints:L_Bourns_SRP4020CC"
 			(at 172.72 275.59 0)
 			(hide yes)
 			(show_name no)
