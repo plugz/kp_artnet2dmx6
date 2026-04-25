@@ -722,6 +722,10 @@
       {
         "netclass": "power",
         "pattern": "/ksz_led.+"
+      },
+      {
+        "netclass": "power",
+        "pattern": "/led*"
       }
     ]
   },
@@ -915,6 +919,12 @@
           "label": "Farnell Part Number",
           "name": "Farnell Part Number",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC",
+          "name": "LCSC",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -973,7 +983,7 @@
         "uuid": "c020d59c-a220-4a4b-a853-32d85708743c"
       }
     ],
-    "used_designators": "",
+    "used_designators": "D3-5,#PWR101-103,#PWR110-112,R33-35",
     "variants": []
   },
   "sheets": [
