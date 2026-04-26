@@ -4907,7 +4907,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C368463"
 			(at 38.1 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -5394,7 +5394,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C844736"
 			(at 38.1 50.8 90)
 			(hide yes)
 			(show_name no)
@@ -5487,7 +5487,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C468242"
 			(at 95.25 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -5598,7 +5598,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C142297"
 			(at 152.4 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -5862,7 +5862,7 @@
 				(justify left)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C22371855"
 			(at 223.52 45.72 90)
 			(hide yes)
 			(show_name no)
@@ -5995,7 +5995,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "3000"
+		(property "Value" "3k"
 			(at 137.16 104.1399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6006,7 +6006,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 139.7 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -6039,7 +6039,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C126350"
 			(at 139.7 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -6166,7 +6166,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "3000"
+		(property "Value" "3k"
 			(at 177.8 106.6799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6177,7 +6177,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 175.26 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -6210,7 +6210,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C126350"
 			(at 175.26 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -6776,7 +6776,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C468242"
 			(at 96.52 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -6962,7 +6962,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C844786"
 			(at 142.24 41.91 90)
 			(hide yes)
 			(show_name no)
@@ -7298,7 +7298,7 @@
 				)
 			)
 		)
-		(property "LCSC" "https://www.lcsc.com/product-detail/C965812.html"
+		(property "LCSC" "C965812"
 			(at 109.22 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -7792,7 +7792,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C126350"
 			(at 100.33 148.59 90)
 			(hide yes)
 			(show_name no)
@@ -7885,7 +7885,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C11214"
 			(at 236.22 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -7946,7 +7946,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "3000"
+		(property "Value" "3k"
 			(at 172.72 44.4499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7957,7 +7957,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 170.18 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -7990,7 +7990,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C126350"
 			(at 170.18 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -8083,7 +8083,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C13585"
 			(at 214.63 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -8255,7 +8255,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C1525"
 			(at 181.61 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -8506,7 +8506,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C51205"
 			(at 224.79 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -8599,7 +8599,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C1525"
 			(at 115.57 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -8848,7 +8848,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C1525"
 			(at 170.18 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -8938,7 +8938,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C844786"
 			(at 170.18 100.33 90)
 			(hide yes)
 			(show_name no)
@@ -9199,7 +9199,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C1525"
 			(at 111.76 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -9604,7 +9604,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C844736"
 			(at 43.18 123.19 90)
 			(hide yes)
 			(show_name no)
@@ -9695,7 +9695,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C368521"
 			(at 36.83 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -9946,7 +9946,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C142297"
 			(at 161.29 39.37 0)
 			(hide yes)
 			(show_name no)
